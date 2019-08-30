@@ -22,6 +22,6 @@ html {
 @media only screen and (max-width: 1600px) {
   #dolphin {
     right: 200px;
-    rotate(x): 90;
+    rotatex: 90;
   }
 }
